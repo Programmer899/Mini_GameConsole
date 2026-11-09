@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-11-07: # November 7 - Researched on components and wired the schematic](#2026-11-07-november-7---researched-on-components-and-wired-t)
-2. [2026-11-08: Work session](#2026-11-08-work-session)
+2. [2026-11-08: # November 8 - Finished schematic and PCB](#2026-11-08-november-8---finished-schematic-and-pcb)
 3. [2026-11-08: # November 9 - Almost got the code to work](#2026-11-08-november-9---almost-got-the-code-to-work)
 
 ## Design
@@ -41,9 +41,25 @@ The tl;dr for this entry is that I finished the Schematic and can go on to makin
 
 [Timelapse](https://lookout.hackclub.com/api/media/41ae69f6-10f6-4b46-93bd-d83f4d019a74/video.mp4)
 
-### 2026-11-08: Work session
+### 2026-11-08: # November 8 - Finished schematic and PCB
 
 **2.87h**
+
+# November 8 - Finished schematic and PCB
+## What did I do this session
+This session I finished the schematic and PCB by placing my last components. I found that I had forgotten to add my display so that is an example of what I did.
+
+I also did some researched if I could use an esp8266 instead of the raspberry pi pico but sadly it were missing 1/2 analog pins and a few GPIO as an example.
+
+## Schematic
+![MiniGameConsole2](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/52fe7132a571630a320763b142379996486603693001cb2a726212fb0e0fb0bd.png)
+
+![MiniGameConsole5](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/123e50a03b5974a0621481d184113b1621dab88ff79ded3547c5ecdf0d0e2b86.png)
+
+## PCB
+![MiniGameConsole8](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/777ea224ba503cf4e28467ca578a92d81e49a9514f7a05832fccf601f41dbc8a.png)
+
+![MiniGameConsole10](https://halflife.hackclub-assets.com/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/96bf0e3d1687852c1106d23b3e15fdaea9400ef1c6dcd9d9250b4b62c97a81e4.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/c18eecfe-2b37-4ecd-a707-018bb08d0e20/video.mp4)
 
